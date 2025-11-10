@@ -1,7 +1,7 @@
 "use client"
 
-import QuizLiberte from "../quiz-liberte"
+import SiteAnalyzer from "../site-analyzer"
 
 export default function Page() {
-  return <QuizLiberte />
+  return <SiteAnalyzer />
 }
